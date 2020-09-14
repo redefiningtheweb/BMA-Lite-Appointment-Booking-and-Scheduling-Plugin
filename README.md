@@ -1,0 +1,1 @@
+# BMA-Lite-Appointment-Booking-and-Scheduling-Plugin
